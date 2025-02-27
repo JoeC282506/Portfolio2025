@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+:root{font-family: "Inter", serif;}
+
+@theme { /* https://tailwindcss.com/docs/colors#using-a-custom-palette */
+    --wp:#21759B;
+    --php: #787CB5;
+    --html: #f06529;
+    --js: #f0db4f;
+    --css: #2965f1;
+}
